@@ -1,5 +1,5 @@
-Hello Git! Hello XiangStone!
-Hello Git! Hello XiangStone!
+Hello Git! Hello XiangStone! 
+Hello Git! Hello XiangStone! hot-fix test
 Hello Git! Hello XiangStone!
 Hello Git! Hello XiangStone!
 Hello Git! Hello XiangStone!
