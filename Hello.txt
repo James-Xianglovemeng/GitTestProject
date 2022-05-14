@@ -7,3 +7,4 @@ Hello Git! Hello XiangStone!
 Hello Git! Hello XiangStone!
 Hello Git! Hello XiangStone!
 This is insert information!
+This is insert information by using hot-fix in the first time!
