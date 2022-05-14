@@ -6,3 +6,4 @@ Hello Git! Hello XiangStone!
 Hello Git! Hello XiangStone!
 Hello Git! Hello XiangStone!
 Hello Git! Hello XiangStone!
+This is insert information!
