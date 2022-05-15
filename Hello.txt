@@ -9,3 +9,4 @@ Hello Git! Hello XiangStone!
 This is insert information!
 This is insert information by using hot-fix in the first time!
 I have add a new line code on GitHub!!!
+Today is sunday!
